@@ -1,0 +1,3 @@
+   53  git remote add origin https://github.com/MrKruze/nasawork.git
+      57  git branch -M main
+   58  git push -u origin main
